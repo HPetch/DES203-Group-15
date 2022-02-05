@@ -21,4 +21,15 @@ Developed with Unreal Engine 4
 Git will track what changes you make to files and show that in GitHub Desktop - _**BUT this will only be the changes made on your local copy of the repository.**_
 
 For example, I have made a change to a couple of assets and saved my work, and in GitHub Desktop it now shows:
+
 ![image](https://user-images.githubusercontent.com/60263607/152399455-c6bc5cc1-c871-4d75-a2f2-e97d50439841.png)
+
+Turn off any tickboxes on files you don't want to be updated for everyone else. For example, Unreal Engine tends to liberally autosave and update the map files if you move the viewport slightly. Tick these off, so that you always keep the latest updated level designs from the server. But leave any files you have changed and want to update for everyone ticked.
+
+To submit something to version control you need to write out the Summary and Description. Use summary to tell us what you have changed - e.g. "Player movement system refactored" or "Added bricks to levels". If you've done a lot of stuff and need to update the description, write this as a bulleted list of what stuff you have changed and how.
+
+After this you can press Commit to Master - this will bundle and ready the changes to go on the server. To finalise these changes and push it to the server, press the Push to Origin button:
+
+![image](https://user-images.githubusercontent.com/60263607/152532464-04a70550-49cd-46d5-b950-5e4655afbb6f.png)
+
+## Fetching, pulling, committing, pushing: cheat sheet
