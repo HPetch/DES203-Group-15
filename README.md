@@ -17,8 +17,5 @@ Developed with Unreal Engine 4
     ![image](https://user-images.githubusercontent.com/60263607/152397465-db437c4f-64d3-471b-9aa7-eeb1fffd62ad.png)
 6. Load the project, and **hooray**! You are now set up for version control.
 
-## How to use
-Git will track what changes you make to files and show that in GitHub Desktop - _**BUT this will only be the changes made on your local copy of the repository.**_
-
-For example, I have made a change to a couple of assets and saved my work, and in GitHub Desktop it now shows:
-![image](https://user-images.githubusercontent.com/60263607/152399455-c6bc5cc1-c871-4d75-a2f2-e97d50439841.png)
+## The Wiki
+Please see the [Wiki](https://github.com/HPetch/DES203-Group-15/wiki) tab for more functionality with GitHub and troubleshooting steps regarding how to use it, and its inbuilt bug tracking tool, GitHub Issues!
