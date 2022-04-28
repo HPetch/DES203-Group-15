@@ -18,4 +18,4 @@ Developed with Unreal Engine 4
 6. Load the project, and **hooray**! You are now set up for version control.
 
 ## The Wiki
-Please see the [Wiki](https://github.com/HPetch/DES203-Group-15/wiki) tab for more functionality with GitHub and troubleshooting steps regarding how to use it, and its inbuilt bug tracking tool, GitHub Issues!
+Please see the [Wiki](https://github.com/HPetch/DES203-Group-15/wiki) tab for more functionality with GitHub and troubleshooting steps regarding how to use it!
